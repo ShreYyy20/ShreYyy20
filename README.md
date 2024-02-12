@@ -1,6 +1,6 @@
 # 💫 About Me:
 <br>Hello! 👋 I'm Shreyans Chheda, a tech enthusiast diving into AI projects. <br>Intrigued by Cloud Computing, DevOps, and UVM-based design verification. I'm on a mission to master these tools while embracing the learning process. <br>Let's embark on this tech journey together! 🚀🌌
-
+<a href="https://app.daily.dev/shreyyy20"><img src="https://api.daily.dev/devcards/b7f1d690164d423c91227f13eb700d9e.png?r=bah" width="400" alt="Shreyans Chheda's Dev Card"/></a>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/Shreyans_20902](https://instagram.com/Shreyans_20902)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyanschheda/) 
