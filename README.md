@@ -3,7 +3,7 @@
 <div>
   <br>Hello! 👋 I'm Shreyans Chheda, a tech enthusiast diving into AI projects. <br>Intrigued by Cloud Computing, DevOps, and UVM-based design verification. I'm on a mission to master these tools while embracing the learning process. <br>Let's embark on this tech journey together! 🚀🌌
   <br>
-  <a href="https://app.daily.dev/shreyyy20"><img src="https://api.daily.dev/devcards/v2/6IqlSOmVHSDua7DCOp5mw.png?r=z82&type=default" align="right" z-index="1" width="356" alt="Shreyans Chheda's Dev Card"/></a>
+  <a href="https://app.daily.dev/shreyyy20"><img src="https://api.daily.dev/devcards/v2/6IqlSOmVHSDua7DCOp5mw.png?r=z82&type=default" align="right" z-index="1" width="346" alt="Shreyans Chheda's Dev Card"/></a>
 </div>
 
 ### 🌐 Socials:
