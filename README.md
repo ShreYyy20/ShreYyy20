@@ -1,6 +1,6 @@
-```math
+<!--- ```math
 \ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover;object-fit:cover; width: 130vw; opacity: 0.2; background: url('https://raw.githubusercontent.com/ShreYyy20/ShreYyy20/5f8efba1cff408591a20e71dfb386cb63929588b/wide_view_by_kvacm_df47gvz-414w-2x.jpg');]{x0000}$}
-```
+``` --->
 # 💫 About Me:
 <div>
   <br>Hello! 👋 I'm Shreyans Chheda, a tech enthusiast diving into AI projects. <br>Intrigued by Cloud Computing, DevOps, and UVM-based design verification. I'm on a mission to master these tools while embracing the learning process. <br>Let's embark on this tech journey together! 🚀🌌
