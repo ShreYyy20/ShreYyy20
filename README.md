@@ -3,13 +3,15 @@
 ``` -->
 # 💫 About Me:
 <div>
-  <br>Hello! 👋 I'm Shreyans Chheda, a tech enthusiast diving into AI projects. <br>Intrigued by Cloud Computing, DevOps, and UVM-based design verification. I'm on a mission to master these tools while embracing the learning process. <br>Let's embark on this tech journey together! 🚀🌌
+<h4>Hey there, I'm Shreyans <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h4> A tech enthusiast diving into AI projects.Intrigued by Cloud Computing, DevOps, and UVM-based design verification. I'm on a mission to master these tools while embracing the learning process. <br>Let's embark on this tech journey together! 🚀🌌</div>
   <br>
   <a href="https://app.daily.dev/shreyyy20"><img src="https://api.daily.dev/devcards/v2/6IqlSOmVHSDua7DCOp5mw.png?r=z82&type=default" align="right" z-index="1" width="346" alt="Shreyans Chheda's Dev Card"/></a>
 </div>
 
 ### 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/Shreyans_20902](https://instagram.com/Shreyans_20902)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyanschheda/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/Shreyans_20902](https://instagram.com/Shreyans_20902)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyanschheda/) <br>
+[![Discord Presence](https://lanyard.cnrad.dev/api/989884748136587275?theme=dark&animated=true@hideProfile=true&showDisplayName=true&hideDiscrim=&borderRadius=30px&idleMessage=Probably%20Sleeping%20rn...%20zzZ)](https://discord.com/users/989884748136587275)
+
 
 ### 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
