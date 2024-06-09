@@ -10,7 +10,7 @@
 
 ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/Shreyans_20902](https://instagram.com/Shreyans_20902)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyanschheda/) <br>
-[![Discord Presence](https://lanyard.cnrad.dev/api/989884748136587275?theme=dark&animated=true@hideProfile=true&showDisplayName=true&hideDiscrim=&borderRadius=10px&idleMessage=Probably%20Sleeping%20rn...%20zzZ)](https://discord.com/users/989884748136587275) <br><h4>My recently streamed tracks if u wanna know ;) </h4>
+[![Discord Presence](https://lanyard.cnrad.dev/api/989884748136587275?theme=dark&animated=true@hideProfile=true&showDisplayName=true&hideSpotify=true&hideDiscrim=&borderRadius=10px&idleMessage=Probably%20Sleeping%20rn...%20zzZ)](https://discord.com/users/989884748136587275) <br><h4>My recently streamed tracks if u wanna know ;) </h4>
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=Shreyans20902&header_size=compact_stats_only&footer_style=wave&count=3&bg_color=000000&loved=true)
 
 ### 💻 Tech Stack:
