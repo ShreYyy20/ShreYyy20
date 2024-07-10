@@ -14,6 +14,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 ![Tensorflow](https://img.shields.io/badge/tensorflow-%2300f?logo=tensorflow) 
 ![Huggingface](https://img.shields.io/badge/HuggingFace-%23323330?logo=huggingface) ![Linux](https://img.shields.io/badge/Linux-%23323330?logo=Linux) 
+![OpenCV](https://img.shields.io/badge/OpenCV-%23323330.svg?style=flat&logo=OpenCV)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white) 
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) 
