@@ -1,6 +1,6 @@
 # 💫 About Me:
 <div>
-<h4>Hey there, I'm Shreyans <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h4> A tech enthusiast diving into AI projects.Intrigued by Cloud Computing, DevOps, and UVM-based design verification. I'm on a mission to master these tools while embracing the learning process. <br>Let's embark on this tech journey together! 🚀🌌</div>
+<h4>Hey there, I'm Shreyans <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h4> A tech enthusiast diving into AI projects.Intrigued by Cloud Computing, DevOps. I'm on a mission to master these tools while embracing the learning process. <br>Let's embark on this tech journey together! 🚀🌌</div>
   <br>
   <a href="https://app.daily.dev/shreyyy20"><img src="https://api.daily.dev/devcards/v2/6IqlSOmVHSDua7DCOp5mw.png?r=z82&type=default" align="right" z-index="1" width="346" alt="Shreyans Chheda's Dev Card"/></a>
 </div>
