@@ -4,6 +4,7 @@
   <br>
   <a href="https://app.daily.dev/shreyyy20"><img src="https://api.daily.dev/devcards/v2/6IqlSOmVHSDua7DCOp5mw.png?r=z82&type=default" align="right" z-index="1" width="346" alt="Shreyans Chheda's Dev Card"/></a>
 </div>
+
 ### 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/Shreyans_20902](https://instagram.com/Shreyans_20902)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyanschheda/) <br>
